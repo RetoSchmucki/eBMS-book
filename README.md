@@ -1,0 +1,5 @@
+## The eBMS book
+
+The aim of this book is to collate in one place all the knowledge and methods that have been developed through the development of the eBMS database. This includes kknowledge about monitoring Butterflies in Europe and other regions of the worlds, how used the data to derive local phenology, calculate standardise abundance incides, local population trends, multispecies trends and speccific indicators.
+
+This is an ambitious agenda that will take some time to be completed, but the best way forward is to start. I don't know how fast and how comprehensive this document/book will be, but I know that I accumulated many snipped of codes and learn a lot about handling time-series of butterfly monitoring. Although I have written most of the code, this would not have been possible withouth the insight of Butterfly expert that patiently eductated me on butterfly's ecology. I also grateful to statisticians and quatitative ecologists that adviced me and have helped me solving problems journey. Nothing would be possible without them. 
